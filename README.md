@@ -60,9 +60,4 @@ Developed a 2-week structured content strategy for a nonprofit organisation.
 - Ability to write for both awareness and conversion objectives  
 - Understanding of audience psychology in content creation  
 - Practical execution of marketing communication tasks  
-- Structured thinking in content strategy design  
-
-## Contact
-
-Email: yourmail@gmail.com  
-LinkedIn: https://linkedin.com/in/yourprofile
+- Structured thinking in content strategy design
