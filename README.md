@@ -60,23 +60,20 @@ Link: [View Full Strategy](https://docs.google.com/document/d/1-Mz83nXwCYimDkp9L
 
 ## SEO & GEO Audit
 
-### Premonio – SEO & GEO Audit
-- Focus: On-page SEO, technical analysis, content gap assessment, and GEO readiness  
+### SEO & GEO Audit – Premonio
 
-Conducted a structured audit for a B2B revenue intelligence platform.
+- Focus: On-page SEO, technical analysis, content gap assessment, and Generative Engine Optimisation (GEO) readiness  
+- Conducted a structured SEO audit for a B2B revenue intelligence platform  
+- Identified issues in title tags, meta descriptions, keyword alignment, and search intent targeting  
+- Evaluated technical performance including mobile usability, crawlability, and CTA functionality  
+- Assessed content strategy for SEO + AI search visibility (Google AI Overviews, Perplexity, etc.)  
 
-Key findings:
-- Generic title tags and weak metadata optimisation  
-- Keyword mismatch between branded and high-intent queries  
-- Technical issues in mobile navigation and broken CTAs  
-- Crawlability and UX limitations affecting performance  
-
-Recommendations:
+Key recommendations:
 - Improve mobile UX and navigation structure  
 - Optimise metadata for search intent alignment  
 - Restructure content for SEO + GEO discoverability  
 
-Link: [View Full Audit]([https://docs.google.com/document/d/1dMw7hc9lL-ZcMvlkwjb3Usyb3v25yx4o3Yz68rrB0Kw/view?usp=sharing](https://docs.google.com/document/u/1/d/1HFxgb6UakY8ntbifZoWXMgEiXuWuQg1TnfY_3huH4VA/edit))
+Link: [View Full Audit](https://docs.google.com/document/d/1HFxgb6UakY8ntbifZoWXMgEiXuWuQg1TnfY_3huH4VA/view)
 
 ## Skills Demonstrated
 
@@ -93,4 +90,5 @@ This portfolio demonstrates applied experience in content creation, campaign exe
 ## Contact
 
 Email: riddhivaje@gmail.com 
+
 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/riddhi-vaje-669144239/)
