@@ -1,63 +1,96 @@
 # Content Writing & Copywriting Portfolio
 
-> Content writer and marketing student focused on social media communication, NGO storytelling, and conversion-driven copywriting.
+Content writing and copywriting portfolio showcasing experience in social media communication, NGO storytelling, and conversion-focused marketing copy.
 
-## About
+Work spans informational content, brand messaging, SEO analysis, and structured copywriting tasks across LinkedIn and simulated agency briefs.
 
-I create structured, intent-driven content across social media, brand storytelling, and campaign copywriting. My focus is on clarity, audience understanding, and measurable engagement through written communication.
+## Core Experience Areas
 
-## Core Strengths
-
-- Social media content writing (LinkedIn, awareness campaigns)
+- Social media content writing (LinkedIn)
 - NGO and social impact storytelling
-- Conversion-focused copywriting (ads, hooks, captions)
+- Conversion-focused copywriting (ads, captions, hooks)
 - Content strategy and campaign planning
-- Audience positioning and messaging clarity
+- SEO and GEO audit analysis
 
-## Selected Work
+## Social Media Content & Brand Storytelling
 
-### Social Media Content & Brand Storytelling
-Created LinkedIn content focused on volunteering awareness and social impact storytelling.
+### LinkedIn Content – Volunteering Awareness Post (InAmigos Foundation)
 
-- Achieved 477 impressions on structured LinkedIn content  
-- Built narrative-driven posts for engagement and education  
-- Wrote CSR-aligned communication with a professional tone  
+- Platform: LinkedIn  
+- Focus: NGO awareness, structured content, engagement-driven writing  
+- Performance: 477 impressions  
+- Created clarity-first awareness content focused on volunteering and social impact messaging  
 
-Proof / Sample Work:  
-https://docs.google.com/document/d/1dMw7hc9lL-ZcMvlkwjb3Usyb3v25yx4o3Yz68rrB0Kw/view?usp=sharing  
+Link: [View LinkedIn Post](https://www.linkedin.com/posts/riddhi-vaje-669144239_inamigos-betterfuture-ngo-activity-7417560818575245313-CPqj?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtJfrEBPc7QTQMDtpvbfmtT_lsjwBMatcg)
 
-### Conversion Copywriting (Apex Consulting Simulation)
-Worked on a structured copywriting assignment focused on ad communication and engagement-driven messaging.
+### Education & Social Impact Content (LinkedIn)
 
-- Created ad copies, hooks, and captions  
-- Applied audience targeting and positioning principles  
-- Focused on conversion-oriented writing  
+- Platform: LinkedIn  
+- Focus: Storytelling + educational awareness content  
+- Combined narrative storytelling with informational messaging to communicate social impact themes  
 
-### Content Strategy (Skill Guru Foundation)
-Developed a 2-week structured content strategy for a nonprofit organisation.
+Link: [View LinkedIn Post](https://www.linkedin.com/posts/riddhi-vaje-669144239_inamigos-educationmatters-betterfuture-activity-7415986646547939328-FkI4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtJfrEBPc7QTQMDtpvbfmtT_lsjwBMatcg)
 
-- Defined content pillars and audience segments  
-- Built engagement-focused posting plan  
-- Designed funnel-based content structure  
+### CSR Partnership Content (LinkedIn)
 
-## Key Insights
+- Platform: LinkedIn  
+- Focus: Corporate Social Responsibility (CSR) communication and partnership storytelling  
+- Created structured content focused on how corporates and NGOs collaborate for social impact through CSR initiatives  
+- Tone: Professional, business-aligned, impact-focused messaging  
 
-- Structured writing improves engagement and readability across platforms  
-- Storytelling increases retention and audience connection  
-- Clear audience positioning improves content performance  
-- Strategy matters more than volume in content marketing  
+Link: [View LinkedIn Post](https://www.linkedin.com/posts/riddhi-vaje-669144239_csrpartnership-corporategiving-socialresponsibility-activity-7416480530323423233-quP2?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtJfrEBPc7QTQMDtpvbfmtT_lsjwBMatcg)
 
-## Tools and Concepts
+### Copywriting Internship Assignment – Apex Consulting
+
+- Focus: Conversion-focused copywriting, ad messaging, and social media content creation  
+- Format: Structured agency-style brief execution  
+- Created Instagram captions, ad copy, and hooks for a digital marketing agency simulation  
+- Emphasis on audience positioning, clarity, and conversion-driven writing  
+
+Link: [View Full Assignment](https://docs.google.com/document/d/1xloY-bFz0O_MwXuf4sfqnPEMQtKw8HBlexuU5ZGgLLc/view?usp=sharing)
+
+### 2-Week Social Media Content Strategy – Skill Guru Foundation
+
+- Focus: Content strategy, audience segmentation, and engagement planning  
+- Developed a structured 2-week content plan covering awareness and engagement phases  
+- Included content pillars, hooks, execution cadence, and funnel-based planning  
+- Focused on consistency, messaging clarity, and audience targeting across LinkedIn and Instagram  
+
+Link: [View Full Strategy](https://docs.google.com/document/d/1-Mz83nXwCYimDkp9LAXBrGLJrf3iAgVg8KuzF4f8Vb8/view?usp=sharing)
+
+## SEO & GEO Audit
+
+### Premonio – SEO & GEO Audit
+- Focus: On-page SEO, technical analysis, content gap assessment, and GEO readiness  
+
+Conducted a structured audit for a B2B revenue intelligence platform.
+
+Key findings:
+- Generic title tags and weak metadata optimisation  
+- Keyword mismatch between branded and high-intent queries  
+- Technical issues in mobile navigation and broken CTAs  
+- Crawlability and UX limitations affecting performance  
+
+Recommendations:
+- Improve mobile UX and navigation structure  
+- Optimise metadata for search intent alignment  
+- Restructure content for SEO + GEO discoverability  
+
+Link: [View Full Audit](https://docs.google.com/document/d/1dMw7hc9lL-ZcMvlkwjb3Usyb3v25yx4o3Yz68rrB0Kw/view?usp=sharing)
+
+## Skills Demonstrated
 
 - Content strategy and planning  
-- Copywriting fundamentals  
+- Copywriting (awareness + conversion)  
+- SEO and GEO analysis  
 - Audience research and positioning  
-- Social media marketing (LinkedIn focus)  
-- Campaign messaging frameworks  
+- Structured marketing communication  
 
-## Portfolio Outcomes
+## Summary
 
-- Ability to write for both awareness and conversion objectives  
-- Understanding of audience psychology in content creation  
-- Practical execution of marketing communication tasks  
-- Structured thinking in content strategy design
+This portfolio demonstrates applied experience in content creation, campaign execution, and SEO analysis across social media, NGO communication, and structured marketing assignments.
+
+## Contact
+
+Email: riddhivaje@gmail.com 
+LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/riddhi-vaje-669144239/)
