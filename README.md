@@ -76,7 +76,7 @@ Recommendations:
 - Optimise metadata for search intent alignment  
 - Restructure content for SEO + GEO discoverability  
 
-Link: [View Full Audit](https://docs.google.com/document/d/1dMw7hc9lL-ZcMvlkwjb3Usyb3v25yx4o3Yz68rrB0Kw/view?usp=sharing)
+Link: [View Full Audit]([https://docs.google.com/document/d/1dMw7hc9lL-ZcMvlkwjb3Usyb3v25yx4o3Yz68rrB0Kw/view?usp=sharing](https://docs.google.com/document/u/1/d/1HFxgb6UakY8ntbifZoWXMgEiXuWuQg1TnfY_3huH4VA/edit))
 
 ## Skills Demonstrated
 
