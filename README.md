@@ -91,4 +91,4 @@ This portfolio demonstrates applied experience in content creation, campaign exe
 
 Email: riddhivaje@gmail.com 
 
-LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/riddhi-vaje-669144239/)
+LinkedIn: https://www.linkedin.com/in/riddhi-vaje-669144239
